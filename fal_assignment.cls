@@ -57,7 +57,7 @@
             \parbox[t]{18cm}{\raggedleft\Huge\color{white}{\MakeUppercase{\@title}}}
         };
         \node[anchor=south east, xshift=-0.5cm, yshift=0.5cm] at (banner.south east) {
-            \parbox[t]{18cm}{\raggedleft\color{white}{Version \@version\BA Games Development\\\@module}}
+            \parbox[t]{18cm}{\raggedleft\color{white}{Version \@version\\BA Game Development\\\@module}}
         };
         \node[anchor=north west] at (banner.south west) {
             \parbox[t]{18cm}{\raggedright\color{gray}{\@author}}
